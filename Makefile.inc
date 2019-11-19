@@ -1,0 +1,3 @@
+GAPBS=
+
+CXX = CC

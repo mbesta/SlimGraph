@@ -1,0 +1,25 @@
+AUTHORS
+-------
+
+Slim Graph was developed in 2019 by a team at ETH Zurich. The project
+has received funding from the European Research Council (ERC) under the
+European Union's Horizon2020 programme (grant agreement DAPP,
+No.678880).
+
+authors:
+Maciej Besta <maciej.besta@inf.ethz.ch>
+Simon Weber <siweber@student.ethz.ch>
+Lukas Gianinazzi <glukas@student.ethz.ch>
+Robert Gerstenberger <gerstenberger.robert@gmail.com>
+Andrey Ivanov <andrei.ivanov@phystech.edu>
+Yishai Oltchik <yishai.oltchik@inf.ethz.ch>
+Torsten Hoefler <htor@inf.ethz.ch>
+
+If you have any questions regarding the software release of Slim Graph,
+please write to the mailining list slimgraph@spcl.inf.ethz.ch .
+
+We thank Mark Klein, Hussein Harake, Colin McMurtrie, and the whole CSCS
+team granting access to the Ault and Daint machines, and for their
+excellent technical support. We thank David Schmidig for help with
+analyzing low-rank approximation, and Timo Schneider <timos@inf.ethz.ch>
+for his immense help with computing infrastructure at SPCL.
